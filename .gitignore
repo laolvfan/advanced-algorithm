@@ -1,0 +1,19 @@
+# Windows 下载元数据
+*:Zone.Identifier
+
+# LaTeX 编译产物
+*.aux
+*.bbl
+*.blg
+*.fdb_latexmk
+*.fls
+*.log
+*.out
+*.synctex.gz
+
+# 本地编辑器与环境文件
+.DS_Store
+.idea/
+.vscode/
+.env
+.env.*
